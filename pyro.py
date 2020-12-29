@@ -204,6 +204,6 @@ async def update_banco(user, change = 0, mode = "carteira"):
     bal=[users[str(user.id)]["carteira"],users[str(user.id)]["banco"]]
     return bal
 
-client.run("Nzc5MzIxNjQ1NzQ3NDA0ODIx.X7e11w.3z0GqB8pHRDx86PMXSfHBKlygPE")
+client.run("***")
 
 
